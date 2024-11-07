@@ -1,0 +1,20 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "resume",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve --port 1234",
+    "watch": "npx @11ty/eleventy --watch"
+  },
+  "author": "Keith Kurson",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.48.2"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

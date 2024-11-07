@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Keith Kurson",
+    "label": "Full-Stack Software Developer",
+    "email": "resume@keithkurson.net",
+    "url": "keith.is",
+    "location": {
+      "city": "Oakland",
+      "region": "CA",
+      "countryCode": "US"
+    },
+    "summary": "Full stack engineer with high scale infrastructure experience looking for a full-stack product engineering role with direct impact on on users.",
+    "profiles": [
+      {
+        "network": "in/keithkurson",
+        "url": "https://www.linkedin.com/in/keithkurson"
+      }
+    ]
+  },
+  "skills": [
+    "Javascript (TS/Node/deno/bun)",
+    "React",
+    "Vue",
+    "Svelte",
+    "PHP",
+    "Python",
+    "SQL",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform"
+  ],
+  "tools": ["VSCode", "Figma", "iTerm", "Glitch", "Notion"],
+  "work": [
+    {
+      "name": "Fastly",
+      "position": "Sr Engineering Manager + Staff Engineer",
+      "startDate": "May 2022",
+      "endDate": "April 2024",
+      "summary": "Led Glitch's engineering team within Fastly post-acquisition, shipping code daily. Our team operated as a startup inside Fastly, pioneering new approaches to developer tooling and WASM deployment at scale.",
+      "highlights": [
+        "Spearheaded Fastly's developer-first initiatives by evolving Glitch's platform to showcase WASM containerization and edge computing capabilities, directly impacting company-wide product strategy",
+        "Architected and implemented full-stack modernization of Glitch.com, including migration from legacy early React to Remix, while establishing new patterns for data fetching and caching unique to Fastly",
+        "Defined technical vision for WASM, planning initiatives to enable code compilation and execution at the edge",
+        "Led lean, high-impact engineering team of 4, maintaining hands-on development while scaling platform to support broader Fastly developer community"
+      ]
+    },
+    {
+      "name": "Glitch",
+      "position": "Engineering Lead - Community",
+      "startDate": "March 2019",
+      "endDate": "May 2022",
+      "summary": "Glitch is a platform that makes it easy to build and deploy web apps, responsible for millions of deployed NodeJS apps.",
+      "highlights": [
+        "Led Glitch's largest engineering team (8 engineers, 1 designer), owning the platform's social features and entire frontend architecture that enabled millions of developers to collaborate and share code",
+        "Architected and shipped complete rewrite of Glitch's web-based IDE, dramatically improving the core editing experience while maintaining platform stability for existing users",
+        "Expanded Glitch's reach by designing and launching VSCode extension, enabling professional developers to use their preferred tools while leveraging Glitch's instant deployment infrastructure",
+        "Pioneered Glimmer, Glitch's digital publication platform, building a NextJS/Prismic solution that scaled to support external content creators while maintaining Glitch's distinctive brand and voice",
+        "Drove technical decision-making across frontend stack, balancing rapid iteration with maintainable architecture to support Glitch's growing developer community",
+        "Represented Glitch at industry conferences, gathering direct user feedback to inform product strategy and technical roadmap",
+        "Scaled social networking features that powered Glitch's viral growth, enabling seamless collaboration between developers worldwide"
+      ]
+    },
+    {
+      "name": "Nava PBC",
+      "position": "Engineering Lead",
+      "startDate": "January 2017",
+      "endDate": "October 2018",
+      "summary": "Nava is a public benefit corporation that works with government agencies to modernize their digital services.",
+      "highlights": [
+        "Led complete technical transformation of healthcare.gov, architecting and implementing new frontend infrastructure serving millions of Americans while coordinating across 6+ federal vendors",
+        "Pioneered adoption of React in federal systems, introducing modern development practices to healthcare.gov while maintaining strict security and reliability requirements",
+        "Directed team of 22 engineers, guiding technical decisions and reviewing critical path code that remains in production on healthcare.gov today",
+        "Architected new API layer and decision engine for healthcare.gov enrollment, streamlining integration with federal data hub while improving system reliability",
+        "Successfully navigated comprehensive security audit of healthcare.gov, creating documentation framework adopted across federal projects",
+        "Founded Integrated Benefits initiative, rapidly building and deploying document submission portal in Vermont that accelerated benefits processing from weeks to days",
+        "Built high-performing engineering team from ground up, establishing development practices that balanced government compliance with startup-speed iteration"
+      ]
+    },
+    {
+      "name": "Code for America",
+      "position": "Engineering Fellow, New York Mayor's Office",
+      "startDate": "January 2016",
+      "endDate": "December 2016",
+      "summary": "Small (one engineer, one designer, one PM) team, deployed to the Mayor's Office of NYC to modernize technology and provide frameworks for improvements that could be made after we left.",
+      "highlights": [
+        "Led 3-person innovation team embedded within NYC Mayor's Office, conducting hundreds of user interviews with social workers, homeless individuals, and caregivers to fundamentally reimagine city services",
+        "Modernized WorkerConnect platform serving 4,000+ NYC social workers, building new React frontend that streamlined daily case management and improved service delivery",
+        "Developed data visualization tools for Center of Economic Opportunity, translating complex poverty metrics into actionable insights for policy makers",
+        "Created and launched CityBook, enabling non-profit organizations to rapidly build mobile-friendly websites, directly addressing needs uncovered through extensive field research across NYC's five boroughs",
+        "Established technical frameworks and user-centered design patterns later adopted across multiple NYC agencies",
+        "Balanced startup-speed development with enterprise requirements while embedding within government bureaucracy",
+        "Spent 100+ hours in direct field research across NYC's subway system and neighborhoods, ensuring solutions addressed real community needs"
+      ]
+    },
+    {
+      "name": "Subeta",
+      "position": "Founder / Solo Engineer",
+      "startDate": "June 2004",
+      "endDate": "Present",
+      "summary": "Subeta is a virtual pet site I founded at 14 years old that still has tens of thousands of active users. It’s where I’ve built a deep connection with users, and taking feedback and moving quickly to action. Many users have been playing (and paying) for 20+ years.",
+      "highlights": [
+        "Founded and scaled virtual pet platform to tens of thousands of active users, maintaining continuous operation and community engagement for 20+ years while working at leading tech companies",
+        "Early adopter of the PayPal API, allowing users to purchase and upgrade accounts when most websites required manual intervention",
+        "Currently architecting complete platform modernization from legacy PHP to Laravel framework, demonstrating systematic approach to technical debt while preserving complex game mechanics",
+        "Built and maintained distributed team of 10-30 volunteers across two decades, establishing sustainable community management practices that enabled platform longevity",
+        "Orchestrated full technical stack (PHP/Laravel, Redis, MySQL) supporting millions of daily interactions while iterating based on real-time user feedback",
+        "Leveraged platform as personal laboratory for testing emerging technologies and development practices, directly informing technical decisions at day jobs",
+        "Maintained 99.9% uptime for 20 years through pragmatic architecture decisions and systematic modernization",
+        "Balanced rapid iteration with stability requirements for production code running continuously since 2004"
+      ]
+    }
+  ]
+}
