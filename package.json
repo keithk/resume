@@ -5,16 +5,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "start": "npx @11ty/eleventy --serve --port 1234",
-    "watch": "npx @11ty/eleventy --watch"
+    "build": "eleventy",
+    "start": "eleventy --serve --port 1234",
+    "watch": "eleventy --watch"
   },
   "author": "Keith Kurson",
   "license": "ISC",
   "dependencies": {
-    "playwright": "^1.48.2"
-  },
-  "devDependencies": {
+    "playwright": "^1.48.2",
     "@11ty/eleventy": "^3.0.0"
-  }
+  },
+  "devDependencies": {}
 }
